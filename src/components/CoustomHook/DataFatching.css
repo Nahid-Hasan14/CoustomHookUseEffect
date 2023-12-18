@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.prente {
+  background-color: #bbdbd0;
+  width: 95%;
+  margin: auto;
+  padding: 10px;
+  margin: 10px;
+}
+
+.abc {
+  background: #5f5050;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
